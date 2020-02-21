@@ -7,7 +7,7 @@ SlothTracker is a cross platform time tracking application. See [https://www.roy
 
 ## Linux
 
-![SlothTracker Linux screenshot](mainView_gnome.png)
+![SlothTracker Linux screenshot](mainView_linux.png)
 
 ## Windows
 
